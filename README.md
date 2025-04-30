@@ -1,2 +1,2 @@
-## MANGO DISEASE DETECTION YOLO, TFLITE, FLUTTER
-![screenshot](Screenshot_20241102_144621.png)
+## Fruit condition detection with YOLOv8n Mango, Apple, Orange
+[demo.MP4](demo.MP4)
